@@ -38,6 +38,8 @@ useEffect (()=>{
       </p>
       <Menu nombre={nombre} color = "rojo"/>
       <Menu nombre={variable} color ="verde"/>
+      <Menu nombre="variable" color ="rojo"/>
+      
       
         
 
